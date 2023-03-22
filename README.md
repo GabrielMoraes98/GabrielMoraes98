@@ -1,4 +1,4 @@
-s# Bem vindo ao meu repositório
+# Bem vindo ao meu repositório
 
 <div>
   <a href="https://github.com/GabrielMoraes98">
