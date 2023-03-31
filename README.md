@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao perfil do Dev Gabriel 😁
 ## Quem sou eu?
-Sou um garoto apaixonado pela programação desde o primeiro contato. Desde então sigo atrás do sonho de trabalhar como desenvolvedor e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript.
+Sou um garoto apaixonado pela programação desde o primeiro contato. Desde então sigo atrás do sonho de trabalhar como desenvolvedor Front-End e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript.
 <div>
   <a href="https://github.com/GabrielMoraes98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraes98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
