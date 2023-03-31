@@ -1,5 +1,6 @@
-# Bem vindo ao meu repositório
-
+# Bem-vindo(a) ao perfil do Dev Gabriel 😁
+## Quem sou eu?
+Sou um garoto apaixonado pela programação desde o primeiro contato. Desde então sigo atrás do sonho de trabalhar como desenvolvedor e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript.
 <div>
   <a href="https://github.com/GabrielMoraes98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraes98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +14,7 @@
  
  <br>
  
-  ## Meus contatos nos links abaixo:
+  ## Meus contatos nos links abaixo: 
  
 <div> 
   <a href = "mailto:gabrielmoraes2507@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
