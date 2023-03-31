@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Meus contatos nos links abaixo:
+  ## Meus contatos nos links abaixo:
  
 <div> 
   <a href = "mailto:gabrielmoraes2507@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
